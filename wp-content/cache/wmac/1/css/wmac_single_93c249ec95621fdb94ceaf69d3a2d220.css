@@ -14260,7 +14260,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos],
 .dark-scheme .header.-mobile .mobile-overlay .holder {
   background-color: #1b1a1f;
 }
-.notification.alert {
+.dark-scheme.notification.alert {
   display: none !important;
 }
 .dark-scheme .tabs .tabs-nav-line {
