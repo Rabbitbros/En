@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /rabbibros.company
+Allow: /rabbibros.company/ru
+
+Disallow: /wp-
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /page/
+Disallow: /trackback/
+Disallow: /feed
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /?feed=
+Disallow: /?s=
+Disallow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: https://1.envato.market/5Q25j
+Disallow: https://rabbitbros.company/wp-admin/*
+Sitemap: https://rabbibros.company/sitemap.xml
+
+Sitemap: http://google.com/webmasters/sitemaps/ping?sitemap=https://rabbitbros.company/sitemap.xml
+Sitemap: http://webmaster.yandex.ru/wmconsole/sitemap_list.xml?host=https://rabbitbros.company/sitemap.xml
+Sitemap: http://search.yahooapis.com/SiteExplorerService/V1/updateNotification?appid=SitemapWriter&url=https://rabbitbros.company/sitemap.xml
+Sitemap: http://search.yahooapis.com/SiteExplorerService/V1/ping?sitemap=https://rabbitbros.company/sitemap.xml
+Sitemap: http://submissions.ask.com/ping?sitemap=https://rabbitbros.company/sitemap.xml
+Sitemap: http://webmaster.live.com/ping.aspx?siteMap=https://rabbitbros.company/sitemap.xml
